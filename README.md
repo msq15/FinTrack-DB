@@ -1,5 +1,7 @@
 # FinTrack-DB : Conception & Analyse de Base de Données (PostgreSQL)
 
+![Démonstration dans le terminal](assets/demo.gif)
+
 ## Contexte du Projet
 Ce projet personnel a été réalisé pour démontrer mes compétences en **ingénierie des données** et en **conception de systèmes d'information**. Il s'agit de la modélisation et de l'exploitation relationnelle d'une plateforme de gestion de portefeuilles boursiers (type eToro / Boursorama). 
 
